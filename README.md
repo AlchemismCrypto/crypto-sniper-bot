@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/cgalCHX.png">
+    <img src="https://i.imgur.com/cgaICHX.png">
     <h3 align="center">Alchemism - Crypto Sniper Bot</h3>
     <img src="https://img.shields.io/discord/921546042346979388?color=5865F2&label=Discord&logo=discord&logoColor=white&raw=true"></img>
     <p align="center">
