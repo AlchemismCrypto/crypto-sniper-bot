@@ -1,19 +1,19 @@
 <div align="center">
-    <img src="https://i.imgur.com/mF3T0jn.png">
-    <h3 align="center">Eryx - Crypto Sniper</h3>
+    <img src="https://i.imgur.com/WhSRUjY.png">
+    <h3 align="center">Alchemism - Crypto Sniper Bot</h3>
     <img src="https://img.shields.io/discord/921546042346979388?color=5865F2&label=Discord&logo=discord&logoColor=white&raw=true"></img>
     <p align="center">
-        Eryx is a cryptocurrency sniper bot designed for efficiency and speed when trading on blockchain networks.
+        Alchemism is a cryptocurrency sniper bot designed for efficiency and speed when trading on blockchain networks.
         <hr>
         <a href="#getting-started">⬇️ Download Lite Version</a>
         /
         <a href="https://github.com/zookyy/bsc-sniper/issues">🐞 Report a bug</a>
 	/
-        <a href="https://eryx.io">🌐 Visit our website</a>
+        <a href="https://Alchemism.io">🌐 Visit our website</a>
 	/
-        <a href="https://eryx.io/discord">💬 Join our Discord</a>
+        <a href="https://Alchemism.io/discord">💬 Join our Discord</a>
 	/
-	<a href="https://t.me/eryxcrypto">💬 Join our Telegram</a>
+	<a href="https://t.me/Alchemismcrypto">💬 Join our Telegram</a>
     </p>
 </div>
 
@@ -44,7 +44,7 @@
 ## Description
 ![Alt Text](https://i.imgur.com/8M3XqVQ.gif)
 
-Eryx is a fast and efficient cryptocurrency trading bot written in NodeJS. It automates the process of buying and selling tokens on blockchain networks as soon as liquidity is added and trading is enabled.
+Alchemism is a fast and efficient cryptocurrency trading bot written in NodeJS. It automates the process of buying and selling tokens on blockchain networks as soon as liquidity is added and trading is enabled.
 <br><br>
 The bot operates with lightning speed when connected to a reliable node, such as one from Quicknode, allowing for buy/sell transactions in under 5 seconds.
 <br><br>
@@ -76,7 +76,7 @@ Additional features supported by the **premium** version:
 - [x] Trailing auto-sell.
 - [x] Support
 
-You can view the latest feature list here: [Eryx Features](https://eryx.io/docs/#features)
+You can view the latest feature list here: [Alchemism Features](https://Alchemism.io/docs/#features)
 
 ### Supported chains
 - Binance Smart Chain
@@ -121,7 +121,7 @@ The bot currently supports any token using the Uniswap interface.
 
 ### Installation
 
-Video tutorial: [Eryx Installation](https://youtu.be/kNteZQmck4g)
+Video tutorial: [Alchemism Installation](https://youtu.be/kNteZQmck4g)
 
 1. Download and install NodeJS from [here](https://nodejs.org/en/download/).
 2. Download and install Git from [here](https://git-scm.com/downloads).
