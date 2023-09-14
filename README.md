@@ -1,17 +1,14 @@
 <div align="center">
     <img src="https://i.imgur.com/cgaICHX.png">
     <h3 align="center">Alchemism - Crypto Sniper Bot</h3>
-    <img src="https://img.shields.io/discord/921546042346979388?color=5865F2&label=Discord&logo=discord&logoColor=white&raw=true"></img>
     <p align="center">
         Alchemism is a cryptocurrency sniper bot designed for efficiency and speed when trading on blockchain networks.
         <hr>
         <a href="#getting-started">⬇️ Download Lite Version</a>
         /
-        <a href="https://github.com/zookyy/bsc-sniper/issues">🐞 Report a bug</a>
+        <a href="https://github.com/AlchemismCrypto/crypto-sniper-bot/issues">🐞 Report a bug</a>
 	/
-        <a href="https://Alchemism.io">🌐 Visit our website</a>
-	/
-        <a href="https://Alchemism.io/discord">💬 Join our Discord</a>
+        <a href="https://alchemism.io">🌐 Visit our website</a>
 	/
 	<a href="https://t.me/Alchemismcrypto">💬 Join our Telegram</a>
     </p>
@@ -42,7 +39,7 @@
 
 
 ## Description
-![Alt Text](https://i.imgur.com/8M3XqVQ.gif)
+![Alt Text](https://i.imgur.com/X5kaYcS.png)
 
 Alchemism is a fast and efficient cryptocurrency trading bot written in NodeJS. It automates the process of buying and selling tokens on blockchain networks as soon as liquidity is added and trading is enabled.
 <br><br>
@@ -76,7 +73,7 @@ Additional features supported by the **premium** version:
 - [x] Trailing auto-sell.
 - [x] Support
 
-You can view the latest feature list here: [Alchemism Features](https://Alchemism.io/docs/#features)
+You can view the latest feature list here: [Alchemism Features](https://alchemism.io/docs/#features)
 
 ### Supported chains
 - Binance Smart Chain
@@ -84,11 +81,10 @@ You can view the latest feature list here: [Alchemism Features](https://Alchemis
 - Avalanche
 - Ethereum
 - Polygon
-- Cronos
-- Milkomeda
-- Metis
+- Base
+- Optimism
+- Mantle
 - Fantom
-- Dogechain
 
 To switch the blockchain the bot operates on, simply update the WSS_NODE endpoint in the config.ini file to the desired endpoint.
 
@@ -105,7 +101,7 @@ The bot currently supports any token using the Uniswap interface.
 ## Getting Started
 ### Requirements
 <ul>
-    <li>Windows 10 / Ubuntu / Mac OS</li>
+    <li>Windows 10 / 11</li>
 	<li>Latest <a href="https://nodejs.org/en/download/">NodeJS</a> installed.</li>
 	<li>Latest <a href="https://git-scm.com/downloads">Git</a> installed.</li>
 	<li>A <b>decent</b> internet connection.</li>
@@ -121,19 +117,17 @@ The bot currently supports any token using the Uniswap interface.
 
 ### Installation
 
-Video tutorial: [Alchemism Installation](https://youtu.be/kNteZQmck4g)
-
 1. Download and install NodeJS from [here](https://nodejs.org/en/download/).
-2. Download and install Git from [here](https://git-scm.com/downloads).
-3. Open a command prompt / terminal and clone the repository.
-	```sh
-	git clone https://github.com/zookyy/bsc-sniper.git && cd bsc-sniper
-	```
-4. In the same command prompt, install the NPM packages.
+2. [Download](https://github.com/AlchemismCrypto/crypto-sniper-bot/archive/refs/heads/main.zip) this repository and extract files (you can use `git clone`). 
+4. Open a command prompt in filder with `index.js` file.
+5. In the same command prompt, install the NPM packages.
 	```sh
 	npm install
 	```
-5. Configuration is the next step. 🎉
+6. In the same command prompt, run JS script.
+	```sh
+	node index.js
+	```
 
 ### Configuration
 
@@ -361,7 +355,6 @@ Go Premium
 </p>
 Contact
 <ul>
-	<li>Discord: Zooky.#1003</li>
-	<li>Telegram: @zookyy</li>
+	<li>[Twitter](https://twitter.com/AlchemismCrypto)</li>
+	<li>[Telegram](https://t.me/AlchemismCrypto)</li>
 </ul>
-```
