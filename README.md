@@ -119,7 +119,7 @@ The bot currently supports any token using the Uniswap interface.
 
 1. Download and install NodeJS from [here](https://nodejs.org/en/download/).
 2. [Download](https://github.com/AlchemismCrypto/crypto-sniper-bot/archive/refs/heads/main.zip) this repository and extract files (you can use `git clone`). 
-4. Open a command prompt in filder with `index.js` file.
+4. Open a command prompt in folder with `index.js` file.
 5. In the same command prompt, install the NPM packages.
 	```sh
 	npm install
@@ -353,8 +353,9 @@ Go Premium
 	For a full list of premium features, refer to the [Features](#features) section.<br>
 	If you are interested in purchasing the premium version of the bot, please contact us using the contact methods listed below.
 </p>
+
 Contact
-<ul>
-	<li>[Twitter](https://twitter.com/AlchemismCrypto)</li>
-	<li>[Telegram](https://t.me/AlchemismCrypto)</li>
-</ul>
+
+- [Twitter](https://twitter.com/AlchemismCrypto)
+- [Telegram](https://t.me/AlchemismCrypto)
+
