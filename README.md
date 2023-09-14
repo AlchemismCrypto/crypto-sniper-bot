@@ -159,7 +159,7 @@ AMOUNT_IN=0.0033
 BUY_SLIPPAGE=10
 ```
 
-Usage
+### Usage
 
 To launch the bot, use the command node index.js
 Premium parameters
@@ -348,13 +348,15 @@ Autosell
     <td><code>number</code></td>
   </tr>
 </table>
-Go Premium
+
+### Go Premium
+
 <p>
 	For a full list of premium features, refer to the [Features](#features) section.<br>
 	If you are interested in purchasing the premium version of the bot, please contact us using the contact methods listed below.
 </p>
 
-Contact
+### Contact
 
 - [Twitter](https://twitter.com/AlchemismCrypto)
 - [Telegram](https://t.me/AlchemismCrypto)
