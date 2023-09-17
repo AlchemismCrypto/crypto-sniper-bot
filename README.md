@@ -4,6 +4,9 @@
     <p align="center">
         Alchemism is a cryptocurrency sniper bot designed for efficiency and speed when trading on blockchain networks.
         <hr>
+	    <a href="https://www.npmjs.com/package/hashlips_art_engine">
+    		<img alt="downloads" src="https://img.shields.io/npm/dm/hashlips_art_engine.svg?color=blue" target="_blank" />
+  	</a>
         <a href="#getting-started">⬇️ Download Lite Version</a>
         /
         <a href="https://github.com/AlchemismCrypto/crypto-sniper-bot/issues">🐞 Report a bug</a>
