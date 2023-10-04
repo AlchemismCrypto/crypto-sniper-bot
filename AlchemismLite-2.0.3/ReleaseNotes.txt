@@ -1,0 +1,24 @@
+AlchemismLite v2.0.3 
+Date: September 30, 2023
+Password: release203
+
+Features:
+- Added Linea, Base, Mantle networks.
+- Dextools pair scanning by API.
+- New Windows UI using MetroFramework.
+- Mempool search algorithm optimization.
+- Nethereum version update.
+
+Bug Fixes:
+- Fixed UniswapV3 bug that caused occasional trade execution delays.
+- Addressed inaccuracies in historical data retrieval.
+
+Known Issues:
+- None at this time.
+
+Upcoming Features:
+- Discord notification.
+- StarkNet network update.
+
+Release Notes for version 2.0.3 provide an overview of the latest changes and improvements in our software. Please review the known issues section for any potential limitations or problems you may encounter while using this version.
+For more information, visit our website or contact our support team at contact@alchemism.io.
