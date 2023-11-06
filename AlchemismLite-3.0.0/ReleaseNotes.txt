@@ -1,0 +1,30 @@
+AlchemismLite v3.0.0
+Date: November 2, 2023
+
+Installation:
+Full installation guide here: https://alchemism.io/docs/getting-started/installation.html
+
+1. Download latest release of AlchemismLite.
+2. Extract the binary files using password `release300`(actual password provided in the README.txt file of the archive).
+3. Run the program and enter the AlchemismLite invitation code. For the public version, invitation codes are similar to licenses.
+4. After activation the program is ready for configuration.
+
+Features:
+- Added Linea, Base, Mantle networks.
+- Dextools pair scanning by API.
+- New Windows UI using MetroFramework.
+- Mempool search algorithm optimization.
+- Nethereum version update.
+
+Bug Fixes:
+- Fixed UniswapV3 bug that caused occasional trade execution delays.
+- Addressed inaccuracies in historical data retrieval.
+
+Known Issues:
+- None at this time.
+
+Upcoming Features:
+- Discord notification.
+- StarkNet network update.
+
+Release Notes for version 3.0.0 provide an overview of the latest changes and improvements in our software. Please review the known issues section for any potential limitations or problems you may encounter while using this version. For more information, visit our website or contact our support team at `contact@alchemism.io`.
