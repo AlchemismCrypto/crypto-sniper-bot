@@ -115,17 +115,23 @@ Full installation guide here: [Alchemism Installation](https://alchemism.io/docs
 ```ini
 [WALLET]
 ; This is your EVM wallet private key.
-EVM_KEY=<private_wallet_key>
+EVM_KEY=private_wallet_key
 
 ; This is your Solana wallet private key.
-SOLANA_KEY=<private_wallet_key>
+SOLANA_KEY=private_wallet_key
 
 ; A private node is recommended for better uptime. However, you may also use free nodes.
-SHYFT_API=<shyft_link_api>
-QUICKNODE_API=<quicknode_link_api>
-MORALIS_API=<moralis_link_api>
+WSS_NODE=wss://bsc-ws-node.nariox.org:443
+
+[CONTRACTS]
+; These variables support some pre-defined contracts (BNB, ETH, BUSD). 
+; For other contracts, you'll have to specify the contract address yourself.
+INPUT=BNB
+OUTPUT=BUSD
+
 
 [TRANSACTION]
+
 GAS_LIMIT=500000
 GAS_PRICE=5
 
@@ -138,7 +144,7 @@ BUY_SLIPPAGE=10
 
 ### Usage
 
-To launch the bot, use the command node index.js
+To launch the bot in CLI mode use the command line options:
 Premium parameters
 General
 <table>
@@ -337,4 +343,3 @@ Autosell
 
 - [Twitter](https://twitter.com/AlchemismCrypto)
 - [Telegram](https://t.me/AlchemismCrypto)
-
