@@ -50,14 +50,14 @@ The version of the bot available on GitHub is the lite version, offering basic f
 ### Features
 
 Current features supported by the **FREE** version:
-- [x] Solana network only
-- [x] Buying SOL pairs only
-- [x] Gas estimation system
-- [x] Regular liquidity sniper
+- [x] Solana network only.
+- [x] Buying SOL pairs only.
+- [x] Gas estimation system.
+- [x] Regular liquidity sniper.
 
 Additional features supported by the **premium** version:
-- [x] Buying (ALL pairs)
-- [x] Multi EVM support.
+- [x] Buying (ALL pairs).
+- [x] Solana and EVM's support.
 - [x] Bytecode checker / blocker.
 - [x] MethodID waiter.
 - [x] Multi-buy mode (all transactions are in the same block). 
