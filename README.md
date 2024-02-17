@@ -2,7 +2,7 @@
     <img src="https://i.imgur.com/cgaICHX.png">
     <h3 align="center">Alchemism - Crypto Sniper Bot</h3>
     <p align="center">
-        Alchemism is a cryptocurrency sniper bot designed for efficiency and speed when trading on blockchain networks.
+        Alchemism is a cryptocurrency sniper bot designed for efficiency and speed when trading on Solana and EVM networks.
         <hr>
         <a href="#getting-started">⬇️ Download Lite Version</a>
         /
@@ -41,7 +41,7 @@
 ## Description
 ![Alt Text](https://i.imgur.com/X5kaYcS.png)
 
-Alchemism is a fast and efficient cryptocurrency trading bot written in .NET Framework 4.5. It automates the process of buying and selling tokens on blockchain networks as soon as liquidity is added and trading is enabled.
+Alchemism is a fast and efficient cryptocurrency trading bot written in .NET Framework 4.8. It automates the process of buying and selling tokens on Solana and EVM (Arbitrum, Optimism, Avalanche) networks as soon as liquidity is added and trading is enabled.
 <br><br>
 The bot operates with lightning speed when connected to a reliable node, such as one from Quicknode, allowing for buy/sell transactions in under 5 seconds.
 <br><br>
@@ -50,14 +50,14 @@ The version of the bot available on GitHub is the lite version, offering basic f
 ### Features
 
 Current features supported by the **FREE** version:
-
-- [x] Buying (BNB & ETH pairs only)
+- [x] Solana network only
+- [x] Buying SOL pairs only
 - [x] Gas estimation system
 - [x] Regular liquidity sniper
 
 Additional features supported by the **premium** version:
 - [x] Buying (ALL pairs)
-- [x] Multi-blockchain support.
+- [x] Multi EVM support.
 - [x] Bytecode checker / blocker.
 - [x] MethodID waiter.
 - [x] Multi-buy mode (all transactions are in the same block). 
@@ -76,39 +76,26 @@ Additional features supported by the **premium** version:
 You can view the latest feature list here: [Alchemism Features](https://alchemism.io/docs/#features)
 
 ### Supported chains
-- Binance Smart Chain
+- Solana
 - Arbitrum
 - Avalanche
-- Ethereum
-- Polygon
 - Base
 - Optimism
-- Mantle
-- Fantom
 
 To switch the blockchain the bot operates on, simply update the WSS_NODE endpoint in the config.ini file to the desired endpoint.
-
-#### Public WSS Nodes
-- Binance Smart Chain: wss://bsc-ws-node.nariox.org:443
-- Ethereum: wss://main-light.eth.linkpool.io/ws
-- Polygon: wss://rpc-mainnet.matic.network
-
-_Note: These nodes listed above are free nodes and may not always be online._
-
-### Supported tokens
-The bot currently supports any token using the Uniswap interface.
 
 ## Getting Started
 ### Requirements
 <ul>
     <li>Windows 7/10/11</li>
-	<li>.NET Framework 4.5 installed.</li>
+	<li>.NET Framework 4.8 installed.</li>
 	<li>A <b>decent</b> internet connection.</li>
 	<li>
-		A <b>decent</b> BSC node, preferably paid, but free nodes are also an option.
+		A <b>decent</b> nodes, preferably paid, but free nodes are also an option.
 		<ul>
-			<li><a href="https://www.quicknode.com/">Quicknode (paid)</a></li>
-			<li><a href="https://www.moralis.io/">Moralis (free)</a></li>
+			<li><a href="https://www.quicknode.com/">[Shyft](https://shyft.to/) (Solana)</a></li>
+			<li><a href="https://www.quicknode.com/">[Quicknode](quicknode.com) (paid)</a></li>
+			<li><a href="https://www.moralis.io/">[Moralis](moralis.io) (free)</a></li>
 		</ul>
 	</li>
 	<li>A cryptocurrency wallet with a private key (creating a new wallet for use with this bot is recommended).</li>
@@ -127,12 +114,14 @@ Full installation guide here: [Alchemism Installation](https://alchemism.io/docs
 
 ```ini
 [WALLET]
-; This is your ETH wallet's private key.
-SECRET_KEY=private_wallet_key
+; This is your EVM wallet private key.
+EVM_KEY=private_wallet_key
+
+; This is your Solana wallet private key.
+SOLANA_KEY=private_wallet_key
 
 ; A private node is recommended for better uptime. However, you may also use free nodes.
 WSS_NODE=wss://bsc-ws-node.nariox.org:443
-
 
 [CONTRACTS]
 ; These variables support some pre-defined contracts (BNB, ETH, BUSD). 
@@ -346,7 +335,7 @@ Autosell
 ### Go Premium
 
 <p>
-	For a full list of premium features, refer to the [Features](#features) section.<br>
+	For a full list of premium features, refer to the features section.
 	If you are interested in purchasing the premium version of the bot, please contact us using the contact methods listed below.
 </p>
 
