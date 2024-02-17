@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://i.imgur.com/cgaICHX.png">
-    <h3 align="center">Alchemism - Solana&EVM Sniper Bot</h3>
+    <h3 align="center">Alchemism - Solana and EVM sniping bot</h3>
     <p align="center">
         Alchemism is a cryptocurrency sniper bot designed for efficiency and speed when trading on Solana and EVM networks.
         <hr>
