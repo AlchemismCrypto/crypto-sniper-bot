@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://i.imgur.com/cgaICHX.png">
-    <h3 align="center">Alchemism - Crypto Sniper Bot</h3>
+    <h3 align="center">Alchemism - Solana&EVM Sniper Bot</h3>
     <p align="center">
         Alchemism is a cryptocurrency sniper bot designed for efficiency and speed when trading on Solana and EVM networks.
         <hr>
@@ -93,9 +93,9 @@ To switch the blockchain the bot operates on, simply update the WSS_NODE endpoin
 	<li>
 		A <b>decent</b> nodes, preferably paid, but free nodes are also an option.
 		<ul>
-			<li><a href="https://www.quicknode.com/">[Shyft](https://shyft.to/) (Solana)</a></li>
-			<li><a href="https://www.quicknode.com/">[Quicknode](quicknode.com) (paid)</a></li>
-			<li><a href="https://www.moralis.io/">[Moralis](moralis.io) (free)</a></li>
+			<li><a href="https://shyft.to/">Shyft.to (Solana)</a></li>
+			<li><a href="https://www.quicknode.com/">Quicknode (paid)</a></li>
+			<li><a href="https://www.moralis.io/">Moralis.io (free)</a></li>
 		</ul>
 	</li>
 	<li>A cryptocurrency wallet with a private key (creating a new wallet for use with this bot is recommended).</li>
